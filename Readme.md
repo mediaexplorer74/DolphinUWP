@@ -8,7 +8,7 @@ The original Dolphin(UWP) is an emulator for running GameCube and Wii games on W
 UWP. 
 
 ## Screenshot(s)
-![dolphinUWP](Images/shot1.jpg)
+![dolphinUWP](Images/shot1.png)
 
 ## My 2 cents
 I cannot discover some parts of https://github.com/UWP-Team/dolphinUWP solution 
