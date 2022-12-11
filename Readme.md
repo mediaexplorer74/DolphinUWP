@@ -13,8 +13,8 @@ UWP.
 ## My 2 cents
 I cannot discover some parts of https://github.com/UWP-Team/dolphinUWP solution 
 (main dolphinUWP.vcxproj, for example). 
- So, I'm trying to find and get similar projects from another repo (https://github.com/dolphin-emu/dolphin),
-etc.  
+ So, I'm trying to find and get similar projects from another repo (https://github.com/dolphin-emu/dolphin , 
+etc.).  
 
 ## Status / Progress
 - Research      +-
